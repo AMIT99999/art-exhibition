@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>What Lies Beneath Art Exhibition</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="styles-about.css">
+    </head>
+    <body>
+        <header>
+            <div id="logo"><img src="images/logo.png", height=150px></div>
+            <div id="nav">
+                <a href= "index.html"><b>Home</b></a>
+                <a href= "about.html"><b>About</b></a>
+                <a href= "recieve updates.html"><b>Recieve Updates</b></a>
+                <a href= "artists.html"><b>Artists</b></a>
+            
+            
+            
+            </div>
+   
+        
+        
+        
+        
+        
+        
+        
+        </header>
+        
+        <article>
+            <p>What Lies Beneath’ is proudly sponsored by Quicksticks Sporting Goods, Umpteen Treasures and Spinfluence.</p>
+
+            <p>As a travelling exhibition, ‘What Lies Beneath’ is an inspirational showcase of altered reality coming to a town near you. Find a location close to you from the list below, and mark the date and place in your diary. You won’t be disappointed when you immerse yourself in the fantastical, creative works of the exhibiting artists: Jack Pott, Kay Oss, Barry D. Hatchett and Anita Room.</p>
+
+            <p>Paihia
+            Visions and Variety
+            24B Ascension Place
+            Paihia
+            Tuesday 5 January – Friday 29 January
+                        </p>
+            <p>Leamington
+            The Artisans Club
+            6 Rusty Road
+            Warkworth
+            Monday 8 February – Tuesday 2 March
+                        </p>
+            <p>Sanson
+            Art & Design House
+            12 Toa Road
+            Sanson
+            Wednesday 10 March – Wednesday 7 April
+                        </p>
+            <p>Mapua
+            Essence of Designs
+            63 Tinakori Street
+            Mapua
+            Monday 12 April – Friday 30 April
+                        </p>
+            <p>Harihari
+            Clay and Paper
+            17 Cedar Grove
+            Harihari
+            Thursday 6 May – Tuesday 1 June
+                        </p>
+            <p>Temuka
+            Creative Tales
+            365 Rewa Drive
+            Temuka
+            Tuesday 8 June – Thursday 1 July
+                        </p>
+        
+        
+        </article>
+        
+        
+        
+       
+        
+ <footer>
+    <p>What Lies Beneath’ is proudly sponsored by Quicksticks Sporting Goods, Umpteen Treasures and Spinfluence.</p></footer>       
+        
+        
+        
+        
+    </body>
