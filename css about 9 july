@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100&family=Faustina:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300&display=swap');
+header{
+    width:100%;
+   
+    background-color: #8BDEFF;
+    height: 150px;
+    
+    
+    
+    
+    
+
+}
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+    font-size: 30px;
+    float: left;
+    margin-top: 3%;
+    color: black;
+    padding-right: 28px;
+    font-family: faustina;
+    
+}
+
+
+
+
+
+
+
+
+
+
+#nav{
+   
+    
+
+
+}
+#logo{
+    float: left;
+    margin-left: 50%;
+    margin-right: 11%;
+
+    
+}
+body{
+    margin: 0;
+}
+
+footer{
+    width: 100%;
+    background-color: #ebebeb;
+    margin-top: 790px;
+}
+
+article{
+    width: 900px;
+    float: left;
+    margin-left: 700px;
+    font-family: battambang;
+}
