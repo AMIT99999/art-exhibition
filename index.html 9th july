@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>What Lies Beneath Art Exhibition</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <div id="logo"><img src="images/logo.png", height=150px></div>
+            <div id="nav">
+                <a href= "index.html"><b>Home</b></a>
+                <a href= "about.html"><b>About</b></a>
+                <a href= "recieve updates.html"><b>Recieve Updates</b></a>
+                <a href= "artists.html"><b>Artists</b></a>
+                
+            
+            
+            
+            </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </header>
+     
+         <section aria-label="exhibtion images">
+             <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+                <ul data-slides>
+                    <li class="slide" data-active>
+                        <img src="images/butterfly1.png">
+                         <div class="text">butterfly 1</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/butterfly2.png">
+                        <div class="text">butterfly 2</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/butterfly3.png">
+                        <div class="text">butterfly 3</div>
+
+                    </li>
+                    <li class="slide">
+                        <img src="images/LionessDoubleExposure.jpg">
+                        <div class="text">Lioness</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/Outlines.jpg">
+                        <div class="text">Outlines</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/Road_to_Nowhere.jpg">
+                        <div class="text">Road To Nowhere</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/Shark_In_Wave.jpg">
+                        <div class="text">Shark In Wave</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/silhouette1.jpg">
+                        <div class="text">Silhoutte 1</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/silhouette2.jpg">
+                        <div class="text">Silhoutte 2</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/studio1.jpg">
+                        <div class="text">Studio 1</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/studio2.jpg">
+                        <div class="text">Studio</div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="images/Windsurfer2.jpg">
+                        <div class="text">Windsurfer 2</div>
+
+                    </li>
+                     
+
+                </ul>
+            </div>
+        </section>
+            
+    </body>
+    <footer><p>‘What Lies Beneath’ is proudly sponsored by Quicksticks Sporting Goods, Umpteen Treasures and Spinfluence.</p></footer>
+
+    
+    
+</html>
