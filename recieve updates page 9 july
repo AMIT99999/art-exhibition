@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>What Lies Beneath Art Exhibition</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js"></script>
+    </head>
+    <body>
+        <header>
+            <div id="logo"><img src="images/logo.png", height=150px></div>
+            <div id="nav">
+                <a href= "index.html"><b>Home</b></a>
+                <a href= "about.html"><b>About</b></a>
+                <a href= "recieve updates.html"><b>Recieve Updates</b></a>
+                <a href= "artists.html"><b>Artists</b></a>
+                
+            <form>
+	<input type="text" name="firstandlastname">
+	<br>
+	<br>
+<h4>Create a Password</h4>
+	<input type="password" name="password"><br>
+	<br>
+	<button type="button" onclick="changehtml()">Submit</button><!--this links to my java displaying a thanks for signing up message-->
+	<br>
+</form> 
+            
+            
+            </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </header>
+        
