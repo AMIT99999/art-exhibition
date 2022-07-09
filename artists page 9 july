@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>What Lies Beneath Art Exhibition</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <div id="logo"><img src="images/logo.png", height=150px></div>
+            <div id="nav">
+                <a href= "index.html"><b>Home</b></a>
+                <a href= "about.html"><b>About</b></a>
+                <a href= "recieve updates.html"><b>Recieve Updates</b></a>
+                <a href= "artists.html"><b>Artists</b></a>
+            </div>
+        </header>        
+                
+                
+                
+       <section aria-label="exhibtion images">
+             <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+                <ul data-slides>
+                    <li class="slide" data-active>
+                        <img src="Artists/Anita_Room.jpg">
+                         <div class="text">Anita Room – Anita has a flare for creating images that tend towards fantasy. Her creations take the viewer to new worlds where they are immersed in colours and sparkles. She has created many illustrations for children’s books over the years and is in full time employment as an illustrator. </div>
+
+                    </li>
+                     <li class="slide">
+                        <img src="Artists/Barry_Hatchett.jpg">
+                        <div class="text">Barry D. Hatchett – With a larger than life personality, Barry stretches reality to new extremes with his images. He considers himself an ‘unreal realist’. Prior to the digital world that he currently operates in, Barry created many infamous double exposure images the old fashioned way. Barry is retired, but that hasn’t slowed him down in the ‘creativity’ department.</div>
+                     </li>
+          
+    
+                 <li class="slide">
+                        <img src="Artists/Jack_Pott.jpg">
+                        <div class="text">Jack Pott – Jack has been a creator his whole life. His mother reports “Our fridge was always covered with the doodlings and drawings that Jack created as a young boy. As he got older, our fridge just didn’t do justice to his creations!” Jack has had his images showcased in a number of art magazines. He currently is employed full time at an Auckland Photographic Art Studio for his creativity.</div>
+                     </li>
+          
+                 <li class="slide">
+                        <img src="Artists/Kay_Oss.jpg">
+                        <div class="text">Kay Oss – Kay describes herself as a ‘meddler of images’. She has always treated her ability to create an altered reality as a hobby activity as opposed to a career option. Kay works as a Photography teacher and encourages her students to push the boundaries of reality by stretching their imaginations with her own work.</div>
+                     </li>
+                    
+          
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                 </ul>
+           </div>
+        </section>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+          
+    </body>
+    <footer><p>‘What Lies Beneath’ is proudly sponsored by Quicksticks Sporting Goods, Umpteen Treasures and Spinfluence.</p></footer>
+</html>
