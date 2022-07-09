@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100&family=Faustina:wght@300&display=swap');
+header{
+    width:100%;
+   
+    background-color: #8BDEFF;
+    height: 150px;
+    
+    
+    
+    
+    
+
+}
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+    font-size: 30px;
+    float: left;
+    margin-top: 3%;
+    color: black;
+    padding-right: 28px;
+    font-family: faustina;
+    
+}
+
+
+
+
+
+
+
+
+
+
+#nav{
+   
+    
+
+
+}
+#logo{
+    float: left;
+    margin-left: 50%;
+    margin-right: 11%;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+    height: 1080px;
+    margin-bottom: 1080px;
+}
+/*/
+
+
+
+
+
+
+
+body{
+    margin: 0;
+    
+}
+*, *::before, *::after{
+    
+    box-sizing: border-box;
+}
+.carousel{
+    width: 40vw;
+    height: 40vh;
+    position: relative;
+    margin-left: 638px;
+    margin-top: 100px;
+}
+
+.slide{
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+}
+.slide > img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    
+    
+    
+    
+    object-position: center;
+}
+.slide[data-active] {
+    opacity: 1;
+}
+input[type=text], select {
+  width: 30%;
+}
+
+input[type=password], select {
+  width: 30%;
+}
+.carousel-button{
+    position: absolute;
+    background: none;
+    border: none;
+    font-size: 4rem;
+    top: 50%;
+    z-index: 2;
+    transform: translateY(-50%);
+    color: rgba(255, 255, 255, .5);
+    cursor: pointer;
+    border-radius: .25rem;
+    padding: 0 .5rem;
+    background-color: rgba(0, 0, 0, .1);
+    
+}
+.carousel-button:hover,
+.carousel-button:focus {
+    color: white;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+
+
+carousel-button:focus {
+    outline: 1px solid black;
+}
+.carousel-button.prev{
+    left: 1rem;
+}
+.carousel-button.next{
+    right: 1rem;
+}
+
+
+.carousel > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.text {
+  color: #000000;
+  font-size: 15px;
+  font-family: battambang;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -120px;
+  width: 100%;
+  text-align: center;
+}
+footer{
+    width: 100%;
+    background-color: #ebebeb;
+    margin-top: 310px;
+}
+
+article{
+    width: 900px;
+    float: left;
+    margin-left: 700px;
+    
+}
